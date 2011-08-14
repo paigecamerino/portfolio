@@ -1,0 +1,36 @@
+body {
+  margin: 0
+}
+
+#pageWrapper {
+  width: 1489px;
+  padding-top: 60px;
+}
+
+#section {
+  border: 1px solid black;
+  height: 200px;
+  }
+
+h2 {
+  color: #666;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+span {
+  color: purple;
+  font-weight: bold;
+}
+
+.polaroid {
+  vertical-align: top;
+  margin: 246px 0 0 -6px;
+}
+
+a img {
+border:0px;
+}
