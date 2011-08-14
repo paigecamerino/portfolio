@@ -22,8 +22,7 @@ li {
 }
 
 span {
-  color: purple;
-  font-weight: bold;
+  color: white;
 }
 
 .polaroid {
@@ -31,6 +30,10 @@ span {
   margin: 246px 0 0 -6px;
 }
 
+a {
+  color: white;
+}
+
 a img {
-border:0px;
+  border:0px;
 }
