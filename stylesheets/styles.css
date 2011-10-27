@@ -26,8 +26,10 @@ span {
 }
 
 .polaroid {
+  display: inline-block;
   vertical-align: top;
   margin: 246px 0 0 -6px;
+  height: 90px;
 }
 
 a {
@@ -36,4 +38,13 @@ a {
 
 a img {
   border:0px;
+}
+
+#image1 {
+  background: url(../images/polaroid-01.jpg) no-repeat;
+  width: 58px;
+}
+
+#image1:hover {
+  background: url(../images/corresponding_polaroids/polaroid-01.jpg) no-repeat;
 }
