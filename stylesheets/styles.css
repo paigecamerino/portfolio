@@ -3,7 +3,7 @@ body {
 }
 
 #pageWrapper {
-  width: 1489px;
+  width: 1481px;
   padding-top: 60px;
 }
 
@@ -28,7 +28,7 @@ span {
 .polaroid {
   display: inline-block;
   vertical-align: top;
-  margin: 246px 0 0 -6px;
+  margin: 246px 0 0 -6.5px;
   height: 90px;
 }
 
@@ -47,4 +47,148 @@ a img {
 
 #image1:hover {
   background: url(../images/corresponding_polaroids/polaroid-01.jpg) no-repeat;
+}
+
+#image2 {
+  background: url(../images/polaroid-02.jpg) no-repeat;
+  width: 53px;
+}
+
+#image2:hover {
+  background: url(../images/corresponding_polaroids/polaroid-02.jpg) no-repeat;
+}
+
+#image3 {
+  background: url(../images/polaroid-03.jpg) no-repeat;
+  width: 58px;
+}
+
+#image3:hover {
+  background: url(../images/corresponding_polaroids/polaroid-03.jpg) no-repeat;
+}
+
+#image4 {
+  background: url(../images/polaroid-04.jpg) no-repeat;
+  width: 48px;
+}
+
+#image4:hover {
+  background: url(../images/corresponding_polaroids/polaroid-04.jpg) no-repeat;
+}
+
+#image5 {
+  background: url(../images/polaroid-05.jpg) no-repeat;
+  width: 54px;
+}
+
+#image5:hover {
+  background: url(../images/corresponding_polaroids/polaroid-05.jpg) no-repeat;
+}
+
+#image6 {
+  background: url(../images/polaroid-06.jpg) no-repeat;
+  width: 48px;
+}
+
+#image6:hover {
+  background: url(../images/corresponding_polaroids/polaroid-06.jpg) no-repeat;
+}
+
+#image7 {
+  background: url(../images/polaroid-07.jpg) no-repeat;
+  width: 52px;
+}
+
+#image7:hover {
+  background: url(../images/corresponding_polaroids/polaroid-07.jpg) no-repeat;
+}
+
+#image8 {
+  background: url(../images/polaroid-08.jpg) no-repeat;
+  width: 53px;
+}
+
+#image8:hover {
+  background: url(../images/corresponding_polaroids/polaroid-08.jpg) no-repeat;
+}
+
+#image9 {
+  background: url(../images/polaroid-09.jpg) no-repeat;
+  width: 64px;
+}
+
+#image9:hover {
+  background: url(../images/corresponding_polaroids/polaroid-09.jpg) no-repeat;
+}
+
+#image10 {
+  background: url(../images/polaroid-10.jpg) no-repeat;
+  width: 55px;
+}
+
+#image10:hover {
+  background: url(../images/corresponding_polaroids/polaroid-10.jpg) no-repeat;
+}
+
+#image11 {
+  background: url(../images/polaroid-11.jpg) no-repeat;
+  width: 47px;
+}
+
+#image11:hover {
+  background: url(../images/corresponding_polaroids/polaroid-11.jpg) no-repeat;
+}
+
+#image12 {
+  background: url(../images/polaroid-12.jpg) no-repeat;
+  width: 52px;
+}
+
+#image12:hover {
+  background: url(../images/corresponding_polaroids/polaroid-12.jpg) no-repeat;
+}
+
+#image13 {
+  background: url(../images/polaroid-13.jpg) no-repeat;
+  width: 50px;
+}
+
+#image13:hover {
+  background: url(../images/corresponding_polaroids/polaroid-13.jpg) no-repeat;
+}
+
+#image14 {
+  background: url(../images/polaroid-14.jpg) no-repeat;
+  width: 48px;
+}
+
+#image14:hover {
+  background: url(../images/corresponding_polaroids/polaroid-14.jpg) no-repeat;
+}
+
+#image15 {
+  background: url(../images/polaroid-15.jpg) no-repeat;
+  width: 51px;
+}
+
+#image15:hover {
+  background: url(../images/corresponding_polaroids/polaroid-15.jpg) no-repeat;
+}
+
+#image16 {
+  background: url(../images/polaroid-16.jpg) no-repeat;
+  width: 62px;
+}
+
+#image16:hover {
+  background: url(../images/corresponding_polaroids/polaroid-16.jpg) no-repeat;
+}
+
+#image17 {
+  background: url(../images/polaroid-17.jpg) no-repeat;
+  width: 48px;
+}
+
+#image17:hover {
+  background: url(../images/corresponding_polaroids/polaroid-17.jpg) no-repeat;
 }
