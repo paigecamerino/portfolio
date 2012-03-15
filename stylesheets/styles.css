@@ -3,7 +3,7 @@ body {
 }
 
 #pageWrapper {
-  width: 1481px;
+  width: 1470px;
   padding-top: 60px;
 }
 
@@ -25,13 +25,6 @@ span {
   color: white;
 }
 
-.polaroid {
-  display: inline-block;
-  vertical-align: top;
-  margin: 246px 0 0 -6.5px;
-  height: 90px;
-}
-
 a {
   color: white;
 }
@@ -40,155 +33,162 @@ a img {
   border:0px;
 }
 
+.polaroid {
+  background-image : url("../images/polaroid_sprite.png");
+  display: inline-block;
+  vertical-align: top;
+  margin: 246px 0 0 -6.5px;
+  height: 90px;
+}
+
 #image1 {
-  background: url(../images/polaroid-01.jpg) no-repeat;
-  width: 58px;
+  background-position : -899px 0px; width : 56px; height : 90px;
 }
 
 #image1:hover {
-  background: url(../images/corresponding_polaroids/polaroid-01.jpg) no-repeat;
+  background-position : -0px 0px; width : 56px; height : 90px;
 }
 
 #image2 {
-  background: url(../images/polaroid-02.jpg) no-repeat;
-  width: 53px;
+  background-position : -955px 0px; width : 53px; height : 90px;
 }
 
 #image2:hover {
-  background: url(../images/corresponding_polaroids/polaroid-02.jpg) no-repeat;
+  background-position : -56px 0px; width : 53px; height : 90px;
 }
 
 #image3 {
-  background: url(../images/polaroid-03.jpg) no-repeat;
-  width: 58px;
+  background-position : -1008px 0px; width : 58px; height : 90px;
 }
 
 #image3:hover {
-  background: url(../images/corresponding_polaroids/polaroid-03.jpg) no-repeat;
+  background-position : -109px 0px; width : 58px; height : 90px;
 }
 
 #image4 {
-  background: url(../images/polaroid-04.jpg) no-repeat;
-  width: 48px;
+  background-position : -1066px 0px; width : 48px; height : 90px;
 }
 
 #image4:hover {
-  background: url(../images/corresponding_polaroids/polaroid-04.jpg) no-repeat;
+  background-position : -167px 0px; width : 48px; height : 90px;
 }
 
 #image5 {
-  background: url(../images/polaroid-05.jpg) no-repeat;
-  width: 54px;
+  background-position : -1114px 0px; width : 54px; height : 90px;
 }
 
 #image5:hover {
-  background: url(../images/corresponding_polaroids/polaroid-05.jpg) no-repeat;
+  background-position : -215px 0px; width : 54px; height : 90px;
 }
 
 #image6 {
-  background: url(../images/polaroid-06.jpg) no-repeat;
-  width: 48px;
+  background-position : -1168px 0px; width : 48px; height : 90px;
 }
 
 #image6:hover {
-  background: url(../images/corresponding_polaroids/polaroid-06.jpg) no-repeat;
+  background-position : -269px 0px; width : 48px; height : 90px;
 }
 
 #image7 {
-  background: url(../images/polaroid-07.jpg) no-repeat;
-  width: 52px;
+  background-position : -1216px 0px; width : 52px; height : 90px;
 }
 
 #image7:hover {
-  background: url(../images/corresponding_polaroids/polaroid-07.jpg) no-repeat;
+  background-position : -317px 0px; width : 52px; height : 90px;
 }
 
 #image8 {
-  background: url(../images/polaroid-08.jpg) no-repeat;
-  width: 53px;
+  background-position : -1268px 0px; width : 53px; height : 90px;
 }
 
 #image8:hover {
-  background: url(../images/corresponding_polaroids/polaroid-08.jpg) no-repeat;
+  background-position : -369px 0px; width : 53px; height : 90px;
 }
 
 #image9 {
-  background: url(../images/polaroid-09.jpg) no-repeat;
-  width: 64px;
+  background-position : -1321px 0px; width : 64px; height : 90px;
 }
 
 #image9:hover {
-  background: url(../images/corresponding_polaroids/polaroid-09.jpg) no-repeat;
+  background-position : -422px 0px; width : 64px; height : 90px;
 }
 
 #image10 {
-  background: url(../images/polaroid-10.jpg) no-repeat;
-  width: 55px;
+  background-position : -1385px 0px; width : 55px; height : 90px;
 }
 
 #image10:hover {
-  background: url(../images/corresponding_polaroids/polaroid-10.jpg) no-repeat;
+  background-position : -486px 0px; width : 55px; height : 90px;
 }
 
 #image11 {
-  background: url(../images/polaroid-11.jpg) no-repeat;
-  width: 47px;
+  background-position : -1440px 0px; width : 47px; height : 90px;
 }
 
 #image11:hover {
-  background: url(../images/corresponding_polaroids/polaroid-11.jpg) no-repeat;
+  background-position : -541px 0px; width : 47px; height : 90px;
 }
 
 #image12 {
-  background: url(../images/polaroid-12.jpg) no-repeat;
-  width: 52px;
+  background-position : -1487px 0px; width : 52px; height : 90px;
 }
 
 #image12:hover {
-  background: url(../images/corresponding_polaroids/polaroid-12.jpg) no-repeat;
+  background-position : -588px 0px; width : 52px; height : 90px;
 }
 
 #image13 {
-  background: url(../images/polaroid-13.jpg) no-repeat;
-  width: 50px;
+  background-position : -1539px 0px; width : 50px; height : 90px;
 }
 
 #image13:hover {
-  background: url(../images/corresponding_polaroids/polaroid-13.jpg) no-repeat;
+  background-position : -640px 0px; width : 50px; height : 90px;
 }
 
 #image14 {
-  background: url(../images/polaroid-14.jpg) no-repeat;
-  width: 48px;
+  background-position : -1589px 0px; width : 48px; height : 90px;
 }
 
 #image14:hover {
-  background: url(../images/corresponding_polaroids/polaroid-14.jpg) no-repeat;
+  background-position : -690px 0px; width : 48px; height : 90px;
 }
 
 #image15 {
-  background: url(../images/polaroid-15.jpg) no-repeat;
-  width: 51px;
+  background-position : -1637px 0px; width : 51px; height : 90px;
 }
 
 #image15:hover {
-  background: url(../images/corresponding_polaroids/polaroid-15.jpg) no-repeat;
+  background-position : -738px 0px; width : 51px; height : 90px;
 }
 
 #image16 {
-  background: url(../images/polaroid-16.jpg) no-repeat;
-  width: 62px;
+  background-position : -1688px 0px; width : 62px; height : 90px;
 }
 
 #image16:hover {
-  background: url(../images/corresponding_polaroids/polaroid-16.jpg) no-repeat;
+  background-position : -789px 0px; width : 62px; height : 90px;
 }
 
 #image17 {
-  background: url(../images/polaroid-17.jpg) no-repeat;
-  width: 48px;
+  background-position : -1750px 0px; width : 48px; height : 90px;
 }
 
 #image17:hover {
-  background: url(../images/corresponding_polaroids/polaroid-17.jpg) no-repeat;
+  background-position : -851px 0px; width : 48px; height : 90px;
+}
+
+#image18 {
+  background-position : -1798px 0px; width : 52px; height : 90px;
+}
+
+#image19 {
+  background-position : -1850px 0px; width : 50px; height : 90px;
+}
+
+#image20 {
+  background-position : -1900px 0px; width : 52px; height : 90px;
+}
+
+#image21 {
+  background-position : -1952px 0px; width : 52px; height : 90px;
 }
